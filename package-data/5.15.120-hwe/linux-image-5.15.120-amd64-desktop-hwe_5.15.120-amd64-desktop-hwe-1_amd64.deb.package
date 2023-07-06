@@ -1,0 +1,19 @@
+Package: linux-image-5.15.120-amd64-desktop-hwe
+Architecture: amd64
+Version: 5.15.120-amd64-desktop-hwe-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az613-608.xaapicw3gjmereppnaj1kw40ib.bx.internal.cloudapp.net>
+Installed-Size: 324591
+Filename: ./5.15.120-hwe/linux-image-5.15.120-amd64-desktop-hwe_5.15.120-amd64-desktop-hwe-1_amd64.deb
+Size: 69643936
+MD5sum: fcfd65e1ad8c45dc75d35b1ffd6a8142
+SHA1: adcb569eb9cb6525ed07563240b6e532272a1c36
+SHA256: addae5bfc28e353990e1fd35eb3e7a8ade29de50517bedcf9559df4517871da8
+SHA512: 937e790c1282edbb410ec67590573f0a569fc6a94ef0d3ccfb7173f88a53bcb2cf81544bd3c3ef6505bbe7fc62793fea8289bd2715191ad0725a3b37f353689d
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.15.120-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.15.120-amd64-desktop-hwe.
+

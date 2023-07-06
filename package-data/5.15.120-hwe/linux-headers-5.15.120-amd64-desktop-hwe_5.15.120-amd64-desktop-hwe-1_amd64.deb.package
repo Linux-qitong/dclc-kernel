@@ -1,0 +1,20 @@
+Package: linux-headers-5.15.120-amd64-desktop-hwe
+Architecture: amd64
+Version: 5.15.120-amd64-desktop-hwe-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az613-608.xaapicw3gjmereppnaj1kw40ib.bx.internal.cloudapp.net>
+Installed-Size: 49292
+Filename: ./5.15.120-hwe/linux-headers-5.15.120-amd64-desktop-hwe_5.15.120-amd64-desktop-hwe-1_amd64.deb
+Size: 8478696
+MD5sum: aac1323ee12712f1e27b0e60ae92b36a
+SHA1: 19917dbcdd8110261d99e608e6ec07455debc9d9
+SHA256: 07439247931a46d954c945ba412e03d551333167cd1ae6e799e1f11d54fe7b28
+SHA512: 2c6ebd404ab72327284a58c2c20a263aa25b91cf3a53f6371118a56cf9d9495d919eaa9f9e452dbf95c55c45723632cb2867c37e962d0d5db2f0641551c6baf3
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.15.120-amd64-desktop-hwe on amd64
+ This package provides kernel header files for 5.15.120-amd64-desktop-hwe on amd64
+ .
+ This is useful for people who need to build external modules
+

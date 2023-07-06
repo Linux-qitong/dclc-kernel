@@ -1,0 +1,20 @@
+Package: linux-headers-6.4.2-amd64-desktop
+Architecture: amd64
+Version: 6.4.2-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az359-22.3j45z5w5gukudmae3ly3ca4vla.cx.internal.cloudapp.net>
+Installed-Size: 53958
+Filename: ./6.4.2/linux-headers-6.4.2-amd64-desktop_6.4.2-1_amd64.deb
+Size: 9176248
+MD5sum: 11afa1f396500c5fddab3371c8583e6e
+SHA1: 099eb62c3ff3be412dcf02151b9943d5b1ae1fdb
+SHA256: 30736511eb28ea0eaf8ea010cd974e94d613d39ea34310deca38e022df40e098
+SHA512: 810a539132ab8c044e9d1341308260cdb6557c05e15fea580f4d9b10f23e92d135665ae9d3aadf5dca84ed5047f7bc49a5e5495985dc6e7bfe25549cb83f0596
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.4.2-amd64-desktop on amd64
+ This package provides kernel header files for 6.4.2-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
+
