@@ -1,0 +1,20 @@
+Package: linux-headers-6.1.36-amd64-desktop-xanmod1
+Architecture: amd64
+Version: 6.1.36-amd64-desktop-xanmod1-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az567-981.lj1xk2mgdexu3igr4w2lmfxu3c.gx.internal.cloudapp.net>
+Installed-Size: 53022
+Filename: ./6.1.36-xanmod1/linux-headers-6.1.36-amd64-desktop-xanmod1_6.1.36-amd64-desktop-xanmod1-1_amd64.deb
+Size: 8997556
+MD5sum: 7f1ac1fc8bc7055f5a8416ac6c5e31cd
+SHA1: 39cb247c6abbe0bbcbba96428133a7fbf67f5404
+SHA256: 00da732d25c6802f476837abf957e629ac322225af9969129dd0eadfd6c0bb81
+SHA512: 24ff821eda1dc7048fd38c9e5c79853a48a5bbc4d1549335f961730c6d2178f5d708ccdbec5dbeb150daec4fe6810206dc1e76c6a77c266bfb7ea8c1df66dcd2
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.1.36-amd64-desktop-xanmod1 on amd64
+ This package provides kernel header files for 6.1.36-amd64-desktop-xanmod1 on amd64
+ .
+ This is useful for people who need to build external modules
+

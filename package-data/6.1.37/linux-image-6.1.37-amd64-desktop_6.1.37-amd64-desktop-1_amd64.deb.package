@@ -1,0 +1,19 @@
+Package: linux-image-6.1.37-amd64-desktop
+Architecture: amd64
+Version: 6.1.37-amd64-desktop-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az589-574.vc0434dfxmkevoezlasxvobd2h.cx.internal.cloudapp.net>
+Installed-Size: 337374
+Filename: ./6.1.37/linux-image-6.1.37-amd64-desktop_6.1.37-amd64-desktop-1_amd64.deb
+Size: 71865436
+MD5sum: 5c5fcc225b94d21c089e38438bf6681f
+SHA1: c195c5d9fd227999f501ce96c518a22f7c2206c7
+SHA256: 821f2a25045f6c03d4efecb634a6dada7bfbcb0067873cd26ac20440474ecb3a
+SHA512: d408ddb37db7112b5cb67b46ec8329dcfced605b4838b2af15f82ca958ee0b8e87323bff0b0756f84d7ca9fce1096a2d016ea4a79eaa1bd515613e7eb629f0db
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.37-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.37-amd64-desktop.
+

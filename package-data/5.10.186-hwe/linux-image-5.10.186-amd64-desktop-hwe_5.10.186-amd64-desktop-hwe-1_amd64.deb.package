@@ -1,0 +1,19 @@
+Package: linux-image-5.10.186-amd64-desktop-hwe
+Architecture: amd64
+Version: 5.10.186-amd64-desktop-hwe-1
+Priority: optional
+Section: kernel
+Source: linux-5.10.186-amd64-desktop-hwe
+Maintainer: root <root@fv-az452-220.inck2y422ovejgvu5jf0laaf5h.jx.internal.cloudapp.net>
+Installed-Size: 310697
+Filename: ./5.10.186-hwe/linux-image-5.10.186-amd64-desktop-hwe_5.10.186-amd64-desktop-hwe-1_amd64.deb
+Size: 67073224
+MD5sum: aa9afef4f0029e7e3866ad0d019b4966
+SHA1: 63fa099e887c081fed3dafaaa30f772c37430859
+SHA256: bea338d997a7dbdfc148611874f385eca85f0484ef926a82377e4352c5770c71
+SHA512: c2411697c326658c59d7571778b9d6a088bdb9ec565bb838978c0ad78ac8daae90e124e6cf7e475723d0a1165935878e479b83c00964c451e8e4cba55cfb9edc
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.186-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.186-amd64-desktop-hwe.
+

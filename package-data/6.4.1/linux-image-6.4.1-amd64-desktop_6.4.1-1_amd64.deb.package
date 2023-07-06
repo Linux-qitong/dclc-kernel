@@ -1,0 +1,19 @@
+Package: linux-image-6.4.1-amd64-desktop
+Architecture: amd64
+Version: 6.4.1-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az370-387.3txz4wqopyzepmqexx20lynywb.cx.internal.cloudapp.net>
+Installed-Size: 399327
+Filename: ./6.4.1/linux-image-6.4.1-amd64-desktop_6.4.1-1_amd64.deb
+Size: 78525716
+MD5sum: f74c394cf11696f6360b2748bd2d032a
+SHA1: 054641d88ca927988b25dc2662b285fc135f0885
+SHA256: d5d1fa845c99bd1ac5b26694ba9c7f0033ac67b1fde150b24e77d74901e08142
+SHA512: 875f8e423dbed0cfa14b445a9f2af6d0e4e6130cc488fda2c87aec891cd3faf4b0678e1afddb11f619bf5d3ba4df84eec928ed259779b16828a874a435c232da
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.4.1-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.4.1-amd64-desktop.
+

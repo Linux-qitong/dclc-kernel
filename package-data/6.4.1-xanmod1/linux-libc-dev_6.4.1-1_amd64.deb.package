@@ -1,0 +1,21 @@
+Package: linux-libc-dev
+Architecture: amd64
+Version: 6.4.1-1
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: linux-upstream
+Maintainer: root <root@fv-az554-472.pp1eodzeogqunczqn5pxbps3qh.bx.internal.cloudapp.net>
+Installed-Size: 6709
+Provides: linux-kernel-headers
+Filename: ./6.4.1-xanmod1/linux-libc-dev_6.4.1-1_amd64.deb
+Size: 1294360
+MD5sum: 334dc767b52ea04d462171eb276935e8
+SHA1: 449c4c4f8b491848ff41848cce9158031bc47278
+SHA256: e2e368279f963ea4e06c6f36efbedba93dba30cc8bb37e34f21efe0f3f30ab9a
+SHA512: 9938bb325a5c700d8de2d067c7de708c1059238f8fa4fde2ec87088f9587f0cd4408585ce51b3c5f917e0d6f4d924eb4ced5d8cfae5245cc33074e1267d36aba
+Homepage: https://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+

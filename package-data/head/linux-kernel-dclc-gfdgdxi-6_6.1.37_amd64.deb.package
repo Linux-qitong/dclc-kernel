@@ -1,0 +1,21 @@
+Package: linux-kernel-dclc-gfdgdxi-6
+Architecture: amd64
+Version: 6.1.37
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 0
+Depends: linux-headers-6.1.37-amd64-desktop, linux-image-6.1.37-amd64-desktop
+Filename: ./head/linux-kernel-dclc-gfdgdxi-6_6.1.37_amd64.deb
+Size: 852
+MD5sum: 12daaff07b9b66ad057b5f4cac448093
+SHA1: cf88d1ff2701c4d4c8b1834bafe1c0691548daf5
+SHA256: 3a25056bb1194dc266201e8980a78a42095d57020c771a964c5578ac72936201
+SHA512: 1600660109d3e03c2c4da36f6623b35da5012031c6afa21e11cf42552b780f986f15d4cd0a3b5fa80a48e8035b15bf3c4b68633e1462b203e702dec771a4801d
+Homepage: https://github.com/gfdgd-xi/dclc-kernel
+Description: 内核（虚包）
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+

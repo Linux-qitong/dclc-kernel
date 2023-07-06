@@ -1,0 +1,20 @@
+Package: linux-headers-6.3.10-amd64-desktop
+Architecture: amd64
+Version: 6.3.10-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az216-796.pt1oxs52cqpu1cpb5jojekw3tg.jx.internal.cloudapp.net>
+Installed-Size: 53671
+Filename: ./6.3.10/linux-headers-6.3.10-amd64-desktop_6.3.10-1_amd64.deb
+Size: 9125400
+MD5sum: d1d0eb2fed9ea4574452e3a24ffc6658
+SHA1: 0c6de0df8ae108450ad4971987a2670ab1019933
+SHA256: 445b8a76561ec97126284bd862aac3fc74f38560a90fe2395a785471545316f9
+SHA512: 524a8be55c5936f7486fc1e3ecbf90f38ed02cc7148ed64ec6df99ba023d42d4c5a7d36af337dfb56fce880c14e97e4dd4d28eb39b037b2a875092882e1aa69b
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.3.10-amd64-desktop on amd64
+ This package provides kernel header files for 6.3.10-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
+

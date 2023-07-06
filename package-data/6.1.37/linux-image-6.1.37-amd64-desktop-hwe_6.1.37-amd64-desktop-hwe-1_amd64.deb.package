@@ -1,0 +1,19 @@
+Package: linux-image-6.1.37-amd64-desktop-hwe
+Architecture: amd64
+Version: 6.1.37-amd64-desktop-hwe-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az612-580.5ov3gq2z100elgx4kegnhyfwdg.jx.internal.cloudapp.net>
+Installed-Size: 338743
+Filename: ./6.1.37/linux-image-6.1.37-amd64-desktop-hwe_6.1.37-amd64-desktop-hwe-1_amd64.deb
+Size: 72015048
+MD5sum: a9217b49edd21bb2edb0557def693c77
+SHA1: adada61242353f15564df42b7d00127adf2876c6
+SHA256: 89532a561cc701d566396376413ebe77bc307c129572beceb54153251f1846fd
+SHA512: 40cb6cbde4e6dc61045b74a9ccfce9b38868f634b3b89e7f7e9442cc1fd35a86faaa2549bc24efb740263d5497e7ec90e1f22b1c619d351544dca6afc45d6378
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.37-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.37-amd64-desktop-hwe.
+

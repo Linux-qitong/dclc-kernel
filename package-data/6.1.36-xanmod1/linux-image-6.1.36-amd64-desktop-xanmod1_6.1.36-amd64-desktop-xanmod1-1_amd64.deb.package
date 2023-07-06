@@ -1,0 +1,19 @@
+Package: linux-image-6.1.36-amd64-desktop-xanmod1
+Architecture: amd64
+Version: 6.1.36-amd64-desktop-xanmod1-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az567-981.lj1xk2mgdexu3igr4w2lmfxu3c.gx.internal.cloudapp.net>
+Installed-Size: 337464
+Filename: ./6.1.36-xanmod1/linux-image-6.1.36-amd64-desktop-xanmod1_6.1.36-amd64-desktop-xanmod1-1_amd64.deb
+Size: 71869752
+MD5sum: 27ea247f0a15efafae8e9270c57c07a6
+SHA1: 45c09868c0ea0af5589a367e5ef3b787e26f48f5
+SHA256: 334d4a77c4f243ea51c70e0449cd3bce72acc1113ed5f3897627d93a3bd110ae
+SHA512: eed077348913f6e63fbd13051db70ffa6035cda9b9217f3fbe6ab8a05c04933ad679319983991a72012b419acf50864b7513482b23897162c5255775229607f9
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.36-amd64-desktop-xanmod1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.36-amd64-desktop-xanmod1.
+

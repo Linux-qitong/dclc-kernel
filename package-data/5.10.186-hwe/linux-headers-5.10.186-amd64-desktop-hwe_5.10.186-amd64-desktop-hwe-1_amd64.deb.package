@@ -1,0 +1,20 @@
+Package: linux-headers-5.10.186-amd64-desktop-hwe
+Architecture: amd64
+Version: 5.10.186-amd64-desktop-hwe-1
+Priority: optional
+Section: kernel
+Source: linux-5.10.186-amd64-desktop-hwe
+Maintainer: root <root@fv-az452-220.inck2y422ovejgvu5jf0laaf5h.jx.internal.cloudapp.net>
+Installed-Size: 50931
+Filename: ./5.10.186-hwe/linux-headers-5.10.186-amd64-desktop-hwe_5.10.186-amd64-desktop-hwe-1_amd64.deb
+Size: 8203824
+MD5sum: f308e9d1ce142b7954109f8f394d8e1c
+SHA1: 606a3dc31e1f331fad148088483a763fd8922d88
+SHA256: bd68ed7724bb03432e192d3929851a34be13e99e5557daa8c6f67ed8d4f5e740
+SHA512: a202b58c68c00c57140d84e6b35d1f9e29b83902fc317d3c390fd2a927f68ea4a7bca5da0ad931a42d30801ad346ebcb1cccdd98067dd5c24f520a07639a03bb
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.10.186-amd64-desktop-hwe on amd64
+ This package provides kernel header files for 5.10.186-amd64-desktop-hwe on amd64
+ .
+ This is useful for people who need to build external modules
+

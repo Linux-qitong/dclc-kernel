@@ -7,11 +7,11 @@ Maintainer: gfdgd xi <3025613752@qq.com>
 Installed-Size: 0
 Depends: linux-headers-4.19.288-amd64-desktop, linux-image-4.19.288-amd64-desktop
 Filename: ./head/linux-kernel-dclc-gfdgdxi-6_4.19.288_amd64.deb
-Size: 2024
-MD5sum: e7a1eb40bfc9dcdca6b795f479fcc8d8
-SHA1: a71b3d8ae295975c873536a1399622fb4d46fa12
-SHA256: 39a4ea076552a6e508b3ea6660ae80b417f3f9f53c36e05410fb8d47050ec65e
-SHA512: 9cfc8a8dc108d9c5cba71277e3ac4d927c61c66668f2a8ec548578657abe9b3405231d5a9acfb687e29c776e6b8cf9251d97c5ccd8eab982c9d5cc5e3fb6fbe6
+Size: 2028
+MD5sum: 10c7569fbe5a902d22b895a43bf77fc7
+SHA1: 369ec668d46514f69a694137abcb6c698ecd29bf
+SHA256: 7e6ea40dec9a73dcc1d82a2ca8835e4a6ac6dd5f031933fc6b9967195be9abf2
+SHA512: 6e202d19ab968f0f11d4be454b6a3f635ccfd52e180e0e9b3c9a0fdd5e6eaa059e442920d7cf19424ba36c1574ad9abd54b4f79a5794641ad2c617d17159c434
 Homepage: https://github.com/gfdgd-xi/dclc-kernel
 Description: 内核（虚包）
 Severity: serious

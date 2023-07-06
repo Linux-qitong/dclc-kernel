@@ -1,0 +1,20 @@
+Package: linux-headers-6.3.11-amd64-desktop-hwe
+Architecture: amd64
+Version: 6.3.11-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az167-845.10vc1fp43w4ejfym3u1nh0imhc.jx.internal.cloudapp.net>
+Installed-Size: 53703
+Filename: ./6.3.11-hwe/linux-headers-6.3.11-amd64-desktop-hwe_6.3.11-1_amd64.deb
+Size: 9122104
+MD5sum: 1bd0debfee9a9725f968ab2af46ef675
+SHA1: 322dc2d7d1a47af52d99670734d260cb934cea32
+SHA256: 740a26e51cb9e328d59e288bf07bc02e39b7fa94657a19db5b654870afffb4dd
+SHA512: 4f5640a610559151b11020b1a80770b28ea462c5f3e77e31b1fb3cf13a377c611adb8b9a1c243dd04a400134c11a940a97fd4481f115a244768b97125856be41
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.3.11-amd64-desktop-hwe on amd64
+ This package provides kernel header files for 6.3.11-amd64-desktop-hwe on amd64
+ .
+ This is useful for people who need to build external modules
+

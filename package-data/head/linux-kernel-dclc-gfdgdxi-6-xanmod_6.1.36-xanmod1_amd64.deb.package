@@ -1,0 +1,21 @@
+Package: linux-kernel-dclc-gfdgdxi-6-xanmod
+Architecture: amd64
+Version: 6.1.36-xanmod1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 0
+Depends: linux-headers-6.1.36-xanmod1-amd64-desktop, linux-image-6.1.36-xanmod1-amd64-desktop
+Filename: ./head/linux-kernel-dclc-gfdgdxi-6-xanmod_6.1.36-xanmod1_amd64.deb
+Size: 864
+MD5sum: 7247c65dadba974128105452544ce156
+SHA1: eb4e0611844491853ca35f0c51b5072f6420961e
+SHA256: 8d0e50cbb13c330c275f4e29b15d1799ede34b16c492fa843a218079c78cbfd5
+SHA512: 021c2e5a507e23adece3b6b288132a6b49e20b0c4ddb6b95e424711cb645d57a4a4109af36a7db29a4da80dc061ff7e592d2b79ec8840ed74efb17bb8b18987e
+Homepage: https://github.com/gfdgd-xi/dclc-kernel
+Description: 内核（虚包）
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+

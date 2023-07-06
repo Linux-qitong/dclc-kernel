@@ -1,0 +1,19 @@
+Package: linux-image-6.4.1-amd64-desktop-hwe
+Architecture: amd64
+Version: 6.4.1-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az583-120.gfcyaji220iezjk42vdvpdjtnh.phxx.internal.cloudapp.net>
+Installed-Size: 398042
+Filename: ./6.4.1-hwe/linux-image-6.4.1-amd64-desktop-hwe_6.4.1-1_amd64.deb
+Size: 78161820
+MD5sum: c00b604538e427c67ddebd7bef2ba835
+SHA1: 5496381a34c9210d9e5e7a3cb24ca57c3e99ace3
+SHA256: d0e80c73b06cc5f572518dbec6d4c32ec62f69dae7a9641a7ba91252e573394d
+SHA512: 9ba268dc3136649d1799b64921b8925165d06e891c749640d5c4b330bf85889c352afe0616e4cb6cc361aa0f8c93afe3ce194f7db941a744b6814e48b7fbfd94
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.4.1-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.4.1-amd64-desktop-hwe.
+

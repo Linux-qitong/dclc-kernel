@@ -1,0 +1,19 @@
+Package: linux-image-6.3.11-amd64-desktop
+Architecture: amd64
+Version: 6.3.11-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az482-800.vuybweqooolergbpi4uukwobad.phxx.internal.cloudapp.net>
+Installed-Size: 396697
+Filename: ./6.3.11/linux-image-6.3.11-amd64-desktop_6.3.11-1_amd64.deb
+Size: 78316344
+MD5sum: ea9e0269bbdf2a78fd2f8572c58870fb
+SHA1: bf400835a7b2fdbba3ae8ccf41f7291521d53786
+SHA256: 5c9a97389d49cec6193b4779e131215e8d3d5c2a3dbc60f3a2eb88b2c25ebf03
+SHA512: aa28a4b7f23ad455227643ba880321fe4505964e220627aaf8d912ed3031d0771c337a5a505087794a387e8f1b6f335f7def299f34f881ad355329315f54512f
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.3.11-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.3.11-amd64-desktop.
+

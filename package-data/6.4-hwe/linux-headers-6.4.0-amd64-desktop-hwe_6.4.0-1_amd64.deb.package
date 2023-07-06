@@ -1,0 +1,20 @@
+Package: linux-headers-6.4.0-amd64-desktop-hwe
+Architecture: amd64
+Version: 6.4.0-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az587-620.n5r5fjoihw3epm2rwe1s04yyyc.gx.internal.cloudapp.net>
+Installed-Size: 54034
+Filename: ./6.4-hwe/linux-headers-6.4.0-amd64-desktop-hwe_6.4.0-1_amd64.deb
+Size: 9178092
+MD5sum: 80c6254db57e53202bbf86355f103eb6
+SHA1: 9e58f5c910dda08c8338c38704e12522ae74c288
+SHA256: b8fe851c4d735e4f825c3d0050c23afb49d4247d521856e09ca9c8561ee59645
+SHA512: a7d6188083d9dff3818aecabb0498a1a54710cff2161d8fd61794c2a5488b58ebf1736080f23dceeb1bcd9f503ca39921986c58c85bc7e8cba205607a820b320
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.4.0-amd64-desktop-hwe on amd64
+ This package provides kernel header files for 6.4.0-amd64-desktop-hwe on amd64
+ .
+ This is useful for people who need to build external modules
+
