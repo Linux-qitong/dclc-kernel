@@ -7,11 +7,11 @@ Maintainer: gfdgd xi <3025613752@qq.com>
 Installed-Size: 0
 Depends: linux-headers-6.3.10-xanmod1-amd64-desktop, linux-image-6.3.10-xanmod1-amd64-desktop
 Filename: ./head/linux-kernel-dclc-gfdgdxi-6-xanmod_6.3.10-xanmod1_amd64.deb
-Size: 864
-MD5sum: 72b6b6e01e3e61a8ea137fd6721e2acb
-SHA1: 90448b28705aa89b67ed26c2b7901dd7bcba1641
-SHA256: 919937f9f4f362cd57240840339edb193bc4b4d90abf7113a1cb0ec177c2796a
-SHA512: e2980b21335c18f625cc30e16df6386a1b8eeb69808e9eb5aae374d4c82104fb294b59573d100b8126af6d200d9a9c1599d01b3428ec6a590909b893f9175a72
+Size: 868
+MD5sum: 23790e53f6bb79ccba97672719be2a6e
+SHA1: 50ccf1b6a72e1ac2d3f1d5cfd2de91d4536ed00e
+SHA256: cb0c2585168951dfa088c45b48f7680ed738d64d5330c18befd939b95bfeb54c
+SHA512: 319371630483b44b846aa8181f09d1e334cc897dc2d8b4410c0033ba86d59fc0573a5d51f9f6a3f45f5b5f89df183f75ae8d08def62e90b5860afb95ef36a3c0
 Homepage: https://github.com/gfdgd-xi/dclc-kernel
 Description: 内核（虚包）
 Severity: serious

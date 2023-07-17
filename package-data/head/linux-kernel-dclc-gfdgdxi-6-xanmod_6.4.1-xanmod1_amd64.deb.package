@@ -8,10 +8,10 @@ Installed-Size: 0
 Depends: linux-headers-6.4.1-xanmod1-amd64-desktop, linux-image-6.4.1-xanmod1-amd64-desktop
 Filename: ./head/linux-kernel-dclc-gfdgdxi-6-xanmod_6.4.1-xanmod1_amd64.deb
 Size: 864
-MD5sum: de39fcc3085504c058221d161957f035
-SHA1: 98c4a2917b4a6574f1199ff8379b51c794c7311a
-SHA256: d0d01644aec28ac3f082b9e86305f70a4100ce3256e677b7a80735a2c9932d2f
-SHA512: c8bf103c1cd0f8d5245645ccb8b396b31b2def84dced6789dfe9966892dc4b04e97d619f4baf4dee8077929a111578041723b4101dc07cc348e63bdeed0be756
+MD5sum: a2e70b31f1c981228ada831b726467ef
+SHA1: 53fe57b8f379f41c16444cea3b3da5af664f644c
+SHA256: 051bec3ff98f57593aa51b324f69cd3cae8cd07fd9b5f183f614ec52b5e656f1
+SHA512: 8789a28489d3ee2f182fd35533196e8729b011c0f47c6f7973d28590825f92244f8f654a7ceb7cbf1360d07abaa0ca7206585c84d40640f275baaff317768b98
 Homepage: https://github.com/gfdgd-xi/dclc-kernel
 Description: 内核（虚包）
 Severity: serious

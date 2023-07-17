@@ -1,0 +1,20 @@
+Package: linux-headers-6.3.12-amd64-desktop-xanmod1
+Architecture: amd64
+Version: 6.3.12-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az627-143.burly5tlgycuxogfz0ckxa1pvb.cx.internal.cloudapp.net>
+Installed-Size: 53771
+Filename: ./6.3.12-xanmod1/linux-headers-6.3.12-amd64-desktop-xanmod1_6.3.12-1_amd64.deb
+Size: 9130780
+MD5sum: 2f79ebb5fbbb631ca09e0bd0eb0e4393
+SHA1: 6be28b469be50f1a314af004c5a1cf5c57135b98
+SHA256: 8f0aeb5b651f0dfc7249882f5e121446fb2a01e646c44da1da7b2fac0f515ca8
+SHA512: 10e7f6f4e2b3f81aa4df7bd0d6a8dfef74f52b01d163da90fbdf99023fd37fb1308f2a00d95d6063f3cd7e100f4c56059c2404028f59e2274f77c712a382ead0
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.3.12-amd64-desktop-xanmod1 on amd64
+ This package provides kernel header files for 6.3.12-amd64-desktop-xanmod1 on amd64
+ .
+ This is useful for people who need to build external modules
+

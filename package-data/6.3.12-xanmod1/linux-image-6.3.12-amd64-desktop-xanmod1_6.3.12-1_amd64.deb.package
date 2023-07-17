@@ -1,0 +1,19 @@
+Package: linux-image-6.3.12-amd64-desktop-xanmod1
+Architecture: amd64
+Version: 6.3.12-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az627-143.burly5tlgycuxogfz0ckxa1pvb.cx.internal.cloudapp.net>
+Installed-Size: 399114
+Filename: ./6.3.12-xanmod1/linux-image-6.3.12-amd64-desktop-xanmod1_6.3.12-1_amd64.deb
+Size: 78457728
+MD5sum: 914ddd0d41cc1af634c5bc846040d987
+SHA1: 064f097155e2c3816a8a0ea89d6f501c72dc391f
+SHA256: 73a18744919ebd9c6683b210d9c5a71955654004c52c35890d288860a690b0b9
+SHA512: f0d57eb69fc65b61fc47a968539409661620aa782b675d0047e879e393678da7c2721300530d426d12da5d6aabee3967492b3448524550e2c2bed33485fc8055
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.3.12-amd64-desktop-xanmod1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.3.12-amd64-desktop-xanmod1.
+

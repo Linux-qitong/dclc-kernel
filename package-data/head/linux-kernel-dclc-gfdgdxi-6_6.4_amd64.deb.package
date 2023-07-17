@@ -8,10 +8,10 @@ Installed-Size: 0
 Depends: linux-headers-6.4-amd64-desktop, linux-image-6.4-amd64-desktop
 Filename: ./head/linux-kernel-dclc-gfdgdxi-6_6.4_amd64.deb
 Size: 2016
-MD5sum: 0f316d6c54089ca2a361b6208dcb7f76
-SHA1: 68991fa39c548ac7e573450be55d75aefb122865
-SHA256: 12f98392da8dc63e5b1fdb453e5d41f28986d1949ca685272a8dbdef614f237a
-SHA512: 66c44643f1e65c8e713f63730b15d68c672e6027e0f1bb7fe5672395f07df62af73da19fdbdd1feac393b8388aa585b427769136708504c5858efeceef0d2b26
+MD5sum: 70e295d7e2c44cdf5a6ef9d6a7226403
+SHA1: 778fda7e19e3c6f2a23e2d2153cc002ee031bb53
+SHA256: dff985a5d2ec0b127f751d5faa3b1eee1f89959a51316391d6c62058e2521a1e
+SHA512: 0e2d8a14b9937bcfbdf135147532cef8cf74421e4bf3288441dffe996a5eabc9f1120786742dd07cc087eae9e25ea97ef8b3dde2ad728b73f0b917c4cef4776d
 Homepage: https://github.com/gfdgd-xi/dclc-kernel
 Description: 内核（虚包）
 Severity: serious

@@ -1,0 +1,19 @@
+Package: linux-image-6.3.12-amd64-desktop-hwe
+Architecture: amd64
+Version: 6.3.12-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@fv-az306-793.jmregfajfmhelj5hmjabl4nu2g.cx.internal.cloudapp.net>
+Installed-Size: 395322
+Filename: ./6.3.12-hwe/linux-image-6.3.12-amd64-desktop-hwe_6.3.12-1_amd64.deb
+Size: 77911840
+MD5sum: 691089019cd6738abb96f293e6870aac
+SHA1: dcd3d4c614c90826c74ffc103582ab1ae6795da1
+SHA256: 125380aef3c7fca0ecb8a9f43fd32c1ae6872034987aa685b64f057702a01efc
+SHA512: 2ff2ba2207161f8db99ea86682fd11c906ec8c1855f734cf39d97fadf986c54e3af3837c0633c010d62c77b31bf50ffc0beeef8dc6ba4f4c524d4e4036c9ed52
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.3.12-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.3.12-amd64-desktop-hwe.
+
