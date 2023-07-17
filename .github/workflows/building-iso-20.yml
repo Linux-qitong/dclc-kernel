@@ -47,6 +47,8 @@ jobs:
           sudo chroot ~/deepin20 apt update
           sudo chroot ~/deepin20 apt install linux-kernel-dclc-gfdgdxi -y
           sudo chroot ~/deepin20 bash -c "echo deb http://kernel.dclc.gfdgdxi.top/ ./ > /etc/apt/sources.list.d/gfdgdxi-kernel-list.list"
+          sudo chroot ~/deepin20 rm /etc/apt/trusted.gpg.d/gfdgdxi-kernel-list.gpg
+          sudo chroot ~/deepin20 rm /etc/apt/sources.list.d/gfdgdxi-kernel-list.list
           sudo chroot ~/deepin20 apt update
           sudo chroot ~/deepin20 apt clean
           
