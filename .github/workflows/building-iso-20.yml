@@ -82,6 +82,17 @@ jobs:
           name: deepin20
           path: /home/runner/deepin20.squashfs
 
+  - name: upload result(initrd)
+        uses: actions/upload-artifact@v1
+        with:
+          name: initrd
+          path: /home/runner/initrd.img
+    
+    - name: upload result(vmlinuz)
+        uses: actions/upload-artifact@v1
+        with:
+          name: vmlinuz
+          path: /home/runner/vmlinuz
 
           
     
