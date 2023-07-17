@@ -57,6 +57,8 @@ jobs:
           sudo chroot ~/deepin20 mkdir -p /backup
           sudo chroot ~/deepin20 bash -c "echo -e 'c\n\ny\n/backup\ny\ny\ny\n\ny\n' | /tmp/lub -b"
           sudo mv ~/deepin20/backup/*.squashfs ~/squashfs/deepin-20-$kernel-amd64.squashfs
+          sudo chroot ~/deepin20 bash -c "mv /boot/initrd.img-* /initrd.img-$kernel"
+          sudo chroot ~/deepin20 bash -c "mv /boot/vmlinuz-* /vmlinuz-$kernel"
           #curl -F "file=@$HOME/squashfs/deepin-20-$kernel-amd64.squashfs" "$UPLOADURL"
 
        
