@@ -30,7 +30,7 @@ jobs:
           aria2c -x 16 -s 16 $deepin15 -d ~ -o deepin15.iso
           mkdir /tmp/deepin15
           sudo mount ~/deepin15.iso /tmp/deepin15
-          sudo unsquashfs /tmp/deepin15/live/filesystem.squashfs
+          sudo unsquashfs /tmp/deepin15/casper/filesystem.squashfs
           sudo mv squashfs-root ~/deepin15
 
           
