@@ -39,7 +39,6 @@ jobs:
 
           ## 定制镜像(Deepin15)
           sudo pardus-chroot ~/deepin15 
-          sudo chroot ~/deepin15 bash -c 'apt update && apt upgrade -y' 
           sudo chroot ~/deepin15 bash -c 'apt purge linux-image* linux-hea* linux-modu* -y' 
           sudo chroot ~/deepin15 bash -c "rm -rfv /lib/modules/*"
           # 设置 DNS
@@ -53,6 +52,7 @@ jobs:
           sudo chroot ~/deepin15 rm /etc/apt/trusted.gpg.d/gfdgdxi-kernel-list.gpg
           sudo chroot ~/deepin15 rm /etc/apt/sources.list.d/gfdgdxi-kernel-list.list
           sudo chroot ~/deepin15 apt update
+          sudo chroot ~/deepin15 apt upgrade
           sudo chroot ~/deepin15 apt clean
         
           
