@@ -39,6 +39,7 @@ jobs:
 
           ## 定制镜像(Deepin15)
           sudo pardus-chroot ~/deepin15 
+           sudo chroot ~/deepin15 bash -c 'apt update && apt upgrade -y' 
           sudo chroot ~/deepin15 bash -c 'apt purge linux-image* linux-hea* linux-modu* -y' 
           sudo chroot ~/deepin15 bash -c "rm -rfv /lib/modules/*"
           # 设置 DNS
