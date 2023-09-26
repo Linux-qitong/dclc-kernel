@@ -23,7 +23,7 @@ jobs:
           # 获取镜像
           wget https://github.com/gfdgd-xi/dclc-kernel/raw/main/kernel.txt
           kernel=`cat kernel.txt`
-          deepin23=https://cdimage.deepin.com/releases/23-Beta/deepin-desktop-community-23-Beta-amd64.iso
+          deepin23=https://cdimage.deepin.com/releases/23-Beta2/deepin-desktop-community-23-Beta2-amd64.iso
 
           
 
